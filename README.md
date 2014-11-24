@@ -1,11 +1,10 @@
 Android开源项目分类汇总
 ====================
+写在前面：此版本是Fork Trinea/android-open-project的独立版本。
 > 如果你也对开源实现库的实现原理感兴趣，欢迎 Star 和 Fork [Android优秀开源项目实现原理解析](https://github.com/android-cn/android-open-project-analysis)  
-> 欢迎加入 QQ 交流群：[14884(入群理由必须填写群简介问题答案)4489](http://shang.qq.com/wpa/qunwpa?idkey=5dc2f22b2f9fe3b6136f9cad29399713b118bfaa9a2330e410757362a37572bc "入群理由必须填写群简介问题答案") [377723625](http://shang.qq.com/wpa/qunwpa?idkey=12ba39b0c3f5d27620ab0cb63ff80507a8a30fd743a11fad028e7742a871e0dc "入群理由必须填写群简介问题答案")(一群已满) [383537512](http://shang.qq.com/wpa/qunwpa?idkey=69b7c4278fc3a33690d4847ed7f9a72b9e4feb51221265a7326cf5261ccd5862 "入群理由必须填写群简介问题答案")(二群已满) [63224677](http://shang.qq.com/wpa/qunwpa?idkey=fb2eaf0c4b4a8c838ad15e6bdd69d901f038a50f4a77360845b9e6d7ee0ba3ee "入群理由必须填写群简介问题答案")(三群已满)  
+> 欢迎加入 QQ 交流群：215253760
 
-欢迎大家推荐好的Android开源项目，可直接[Commit](https://github.com/Trinea/android-open-project/wiki "请遵守<内容添加及编辑规范>")，欢迎`Star`、`Fork` :)  
-> **关于我，欢迎关注**  
-> 微博：<a title="Android 技术及移动互联网分享" href="http://weibo.com/trinea?s=6cm7D0" target="_blank">Trinea</a>&nbsp;&nbsp;&nbsp;&nbsp;主页：<a title="关注于 Android、Java、性能优化、开源项目" href="http://www.trinea.cn/" target="_blank">trinea.cn</a>&nbsp;&nbsp;&nbsp;&nbsp;邮箱：<a title="欢迎邮件与我交流" href="mailto:trinea.cn@gmail.com" target="_blank">trinea.cn#gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;QQ：<a title="欢迎 Q 我" href="http://wpa.qq.com/msgrd?v=3&amp;uin=717763774&amp;site=qq&amp;menu=yes" target="_blank">717763774</a>  
+
 
 
 更多：[Android 开源库获取途径整理](http://www.trinea.cn/android/android-open-project-summary/)  
@@ -653,12 +652,12 @@ Demo地址：https://play.google.com/store/apps/details?id=com.marvinlabs.widget
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 1. ToggleButton
-<img src="https://github.com/zcweng/ToggleButton/blob/master/ToggleButtonSample/21879.gif"/>
 ToggleButton Widget For Android Developers
 项目地址：https://github.com/zcweng/ToggleButton
+效果图:![Renderings](https://github.com/zcweng/ToggleButton/blob/master/ToggleButtonSample/21879.gif)
 
 #### 九、ScrollView  
-1. Discrollview  
+1. Discrollview
 支持滚动时Item淡入淡出，平移，缩放效果的ScrollView  
 项目地址：https://github.com/flavienlaurent/discrollview   
 Demo地址：https://github.com/flavienlaurent/discrollview/raw/master/sample.apk    
