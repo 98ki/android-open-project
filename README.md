@@ -651,10 +651,10 @@ Demo地址：https://play.google.com/store/apps/details?id=com.marvinlabs.widget
 在线演示：http://www.youtube.com/watch?v=hpZD9gJcRg0&feature=youtu.be   
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
-1. ToggleButton
-ToggleButton Widget For Android Developers
-项目地址：https://github.com/zcweng/ToggleButton
-效果图:![Renderings](https://github.com/zcweng/ToggleButton/blob/master/ToggleButtonSample/21879.gif)
+1. ToggleButton  
+ToggleButton Widget For Android Developers  
+项目地址：https://github.com/zcweng/ToggleButton  
+效果图:![Renderings](https://github.com/zcweng/ToggleButton/blob/master/ToggleButtonSample/21879.gif)  
 
 #### 九、ScrollView  
 1. Discrollview
